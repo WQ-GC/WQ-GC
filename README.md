@@ -1,6 +1,6 @@
 ### WQuah
-Firmware engineer. Side projects in algorithmic trading, macro/econometric analysis, and home automation.
-
+Senior Software Engineer
+US Macro Equities Portfolio Tracker
 ---
 
 #### Repository index — grouped by theme
